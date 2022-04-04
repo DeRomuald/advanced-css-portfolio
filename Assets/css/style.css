@@ -2,23 +2,25 @@
   margin:0;
   padding:0;
   box-sizing: border-box;
+  background-color: black;
 
 }
 header {
-    padding: 20px 35px;
-    background-color: rgb(113, 113, 13);
+    padding: 20px 20px;
+    background-color:black;
   }
   header h1 {
-    font-weight: bold;
-    font-size: 36px;
-    color: lightgray;
+    font-weight: lighter;
+    font-size: 55px;
+    color: white;
     margin: 0;
     display: inline;
+    font-family: sans-serif; 
   }
   
   header a {
     text-decoration: none;
-    color: lightgrey;
+    color: white;
   }
   header nav {
     float: right;
@@ -26,26 +28,26 @@ header {
   }
   header nav ul li {
     display: inline;
+    font-family:sans-serif;
   }
   header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
   }
+.avatar{ background-image: url("../images/avatar.png"); 
+background-size:cover;
+height: 600px;
+background-position: center;
+position: relative;
 }
-main{
-
+main{ 
+    font-family: sans-serif;
+    color: white;
+    font-weight: lighter;
 }
-.main-section {
-
-}
-.paragraph p {
-    border :;
-    padding: 20px; 
-}
-.work{
-
-}
-.contact-me {
+.title{
+    display:flex;
+    flex-direction: column;
 
 }
