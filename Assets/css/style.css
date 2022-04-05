@@ -46,8 +46,13 @@ main{
     color: white;
     font-weight: lighter;
 }
-.title{
-    display:flex;
-    flex-direction: column;
+.about-me {
+    display:inline-flex;
+    flex-direction:row;  
+   margin: 50px 50px;
+   padding: 50px 50px;
+  
+    
 
 }
+
