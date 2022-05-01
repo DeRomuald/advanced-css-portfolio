@@ -1,8 +1,9 @@
 # This Portfolio Contains
 
-Bio,
-placeholders and screenshots of work,
-and contact information
+* Bio
+* Placeholders 
+* screenshots and links of work
+* contact information
 
 
 ## Link
