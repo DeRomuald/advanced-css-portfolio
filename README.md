@@ -10,4 +10,5 @@
 https://deromuald.github.io/advanced-css-portfolio/
 
 ###  Screenshot
-<img width="1440" alt="Screen Shot 2022-04-10 at 10 55 31 PM" src="https://user-images.githubusercontent.com/100550961/162658578-645e72e7-a03c-43e2-8f15-f28dc461e071.png">
+
+<img width="1418" alt="Screen Shot 2022-05-02 at 2 05 45 AM" src="https://user-images.githubusercontent.com/100550961/166191878-4410e779-ed23-47cb-858b-8dd548b9fdb8.png">
